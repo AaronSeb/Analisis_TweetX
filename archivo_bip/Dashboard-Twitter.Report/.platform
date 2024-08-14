@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Dashboard-Twitter"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "265801a5-20d4-43ac-a86f-b644b460d4e1"
+  }
+}
